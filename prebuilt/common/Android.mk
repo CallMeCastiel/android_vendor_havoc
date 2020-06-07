@@ -83,7 +83,7 @@ LOCAL_DEX_PREOPT := false
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := NexusLauncherRelease
+LOCAL_MODULE := ShadyQuickStep
 LOCAL_OVERRIDES_PACKAGES := Launcher2 Launcher3 Launcher3QuickStep
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := priv-app/$(LOCAL_MODULE).apk
