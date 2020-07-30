@@ -150,6 +150,29 @@ PRODUCT_PACKAGES += \
     IconShapeAncientQuintafoil \
     IconShapeAncientTwelveStarsStripes \
     IconShapeAncientYinYang
+    AccentColorYellowOverlay \
+    AccentColorVioletOverlay \
+    AccentColorTealOverlay \
+    AccentColorRedOverlay \
+    AccentColorQGreenOverlay \
+    AccentColorPinkOverlay \
+    AccentColorLightPurpleOverlay \
+    AccentColorIndigoOverlay \
+    AccentColorFlatPinkOverlay \
+    AccentColorCyanOverlay \
+    AccentColorBlueGrayOverlay \
+    AccentColorMintOverlay \
+    AccentColorAmberOverlay \
+    AccentColorCandyRedOverlay \
+    AccentColorDdayGreenOverlay \
+    AccentColorFrenchBleuOverlay \
+    AccentColorHeirloomBleuOverlay \
+    AccentColorHolillusionOverlay \
+    AccentColorIllusionsPurpleOverlay \
+    AccentColorObfusBleuOverlay \
+    AccentColorOnePlusRedOverlay \
+    AccentColorSeasideMintOverlay \
+    AccentColorWarmthOrangeOverlay
 
 # Primary colors
 PRODUCT_PACKAGES += \
